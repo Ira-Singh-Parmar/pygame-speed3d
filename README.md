@@ -57,7 +57,7 @@ pygame-speed3d/
 git clone https://github.com/Ira-Singh-Parmar/pygame-speed3d.git
 cd pygame-speed3d
 
-. Open index.html in your browser to play the game.
+2. Open index.html in your browser to play the game.
 
 💡 Tip: Use VS Code Live Server to run it locally with auto-refresh.
 
