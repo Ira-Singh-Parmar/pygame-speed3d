@@ -61,13 +61,5 @@ cd pygame-speed3d
 
 💡 Tip: Use VS Code Live Server to run it locally with auto-refresh.
 
----
-
-📜 License
-
-This project is licensed under the MIT License.
-See the LICENSE
- file for details.
- ---
- 
+--- 
 Made by Ira Singh Parmar
